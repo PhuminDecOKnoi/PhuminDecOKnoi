@@ -2,7 +2,7 @@
 
 # Phumin Decoknoi
 
-### AI × Labour Law × HR Governance × Digital Business
+### AI × Labour Law × HR Governance × Legal Knowledge Systems × Digital Business
 
 **Building practical knowledge systems, compliance tools, learning resources, and AI-enabled solutions for modern organizations.**
 
@@ -19,9 +19,9 @@
 
 I am a multidisciplinary professional combining **Political Science, Digital Business Management, Law, Human Resources, Labour Compliance, Audit, Governance, Knowledge Management, and Artificial Intelligence**.
 
-My academic pathway reflects an integrated development from **Political Science → Digital Business Management → Law**. I use this foundation to design practical solutions for organizational governance, labour compliance, HR systems, enterprise learning, and digital transformation.
+My academic pathway reflects an integrated development from **Political Science → Digital Business Management → Law**. I use this foundation to design practical solutions for organizational governance, labour compliance, HR systems, enterprise learning, legal knowledge management, and digital transformation.
 
-This GitHub profile documents my continuous learning and project development across **AI, LegalTech, HRTech, database systems, web development, prompt engineering, compliance dashboards, and open educational resources**.
+This GitHub profile documents my continuous learning and project development across **AI, LegalTech, HRTech, database systems, web development, prompt engineering, compliance dashboards, legal research workflows, and open educational resources**.
 
 ---
 
@@ -30,6 +30,7 @@ This GitHub profile documents my continuous learning and project development acr
 - **Labour Law and Labour Compliance** — legal requirements, workplace governance, audit readiness, and corrective-action systems
 - **HR Governance and HR Technology** — workforce management, employee voice, HR analytics, and digital HR processes
 - **Artificial Intelligence and Knowledge Management** — AI agents, prompt engineering, structured knowledge, and enterprise AI use cases
+- **Legal Research and Case-Law Knowledge Systems** — statute-first analysis, Supreme Court decision verification, source mapping, and reusable legal knowledge bases
 - **Audit, Risk, and Compliance** — evidence-based reviews, internal controls, legal registers, and compliance dashboards
 - **Digital Business and Data** — database design, business analytics, digital transformation, and decision-support systems
 - **Learning Design and Open Education** — practical courses, commented code examples, tutorials, and reusable GitHub learning resources
@@ -72,12 +73,90 @@ This GitHub profile documents my continuous learning and project development acr
 
 ### AI, LegalTech, HRTech, and Governance
 
+- [**GitHub-style Skill Library Agent**](https://github.com/PhuminDecOKnoi/GitHub-style-Skill-Library-Agent-) — a reusable AI workflow and knowledge-operations repository for legal, HR, audit, compliance, administrative, and software-development tasks
 - [**Legal Compliance KM Dashboard**](https://github.com/PhuminDecOKnoi/Legal-Compliance-KM-Dashboard) — knowledge management and legal-compliance dashboard concepts
 - [**AI Labour Dashboard UI Prototype**](https://github.com/PhuminDecOKnoi/AI-Labour-Dashboard-UI-React-TypeScript-Prototype) — React and TypeScript prototype for labour and HR data visualization
-- [**GitHub-style Skill Library Agent**](https://github.com/PhuminDecOKnoi/GitHub-style-Skill-Library-Agent-) — reusable skill-library concepts for AI-assisted workflows
 - [**Prompt AI — 52 Patterns**](https://github.com/PhuminDecOKnoi/prompt-ai-52-patterns) — structured prompt-engineering patterns for learning and application
 
-### Software and Database Learning
+---
+
+## 🧠 GitHub-style Skill Library Agent
+
+The [**GitHub-style Skill Library Agent**](https://github.com/PhuminDecOKnoi/GitHub-style-Skill-Library-Agent-) is a structured repository for designing and maintaining reusable AI operating procedures.
+
+It is intended to turn repeated professional workflows into version-controlled, reviewable, and continuously improved **Skills** rather than isolated prompts.
+
+### Core Design
+
+```text
+User Request
+      ↓
+GitHub Skill / Workflow Engine
+      ↓
+Source Resolver
+      ├── Google Drive Internal Knowledge
+      ├── STOU Course Knowledge
+      ├── Verified Statutory Law
+      ├── Internal Case-Law Records
+      └── External Official Sources
+      ↓
+Structured Analysis
+      ↓
+Quality Assurance
+      ↓
+Reusable Knowledge Output
+```
+
+### Current Capabilities
+
+- **Internal Knowledge First** — review internal sources before external research
+- **Source Registry** — map GitHub workflows to Google Drive, STOU units, statutes, and case-law sources
+- **Legal Deka Engine** — search, verify, extract, compare, and classify Supreme Court decisions
+- **Source Availability Report** — show which sources are loaded, missing, verified, or limited
+- **Stop Rules** — prevent unsupported statutory quotations, fabricated judgments, or overconfident conclusions
+- **Case-Law Knowledge Base** — separate verified doctrine from research queues and incomplete records
+- **Comparative and Trend Analysis** — identify older approaches, later developments, conflicts, and turning points
+- **Branch and Pull-Request Governance** — develop Skills in version branches before controlled merge into `main`
+
+### Legal Deka Workflow v2.1
+
+```text
+Source Resolution
+      ↓
+Search
+      ↓
+Verify
+      ↓
+Extract
+      ↓
+Legal Mapping
+      ↓
+Element Analysis
+      ↓
+Compare
+      ↓
+Trend Analysis
+      ↓
+Case Map
+      ↓
+Exam / Practice Notes
+      ↓
+Knowledge Base Update
+```
+
+The current legal-research architecture treats:
+
+- **GitHub** as the workflow and governance layer
+- **Google Drive** as the internal knowledge base
+- **STOU 41216** as an academic core when relevant
+- **Official statutory sources** as primary law
+- **Supreme Court decisions** as case-law support, not a substitute for statutory text
+
+This approach improves traceability, legal accuracy, version control, and reuse across legal study, HR compliance, audit work, case analysis, and professional knowledge management.
+
+---
+
+## 💻 Software and Database Learning
 
 - [**TypeScript for React, API, and AI**](https://github.com/PhuminDecOKnoi/TypeScript-for-React-API-AI) — TypeScript learning materials for modern application development
 - [**TypeScript for Beginner**](https://github.com/PhuminDecOKnoi/TypeScript-for-Beginner) — beginner-friendly TypeScript course and examples
@@ -100,6 +179,8 @@ Law, HR Governance, and Labour Compliance
         ↓
 AI, Data, Knowledge Management, and Software Development
         ↓
+Legal and Compliance Knowledge Systems
+        ↓
 Practical Enterprise Solutions
 ```
 
@@ -107,8 +188,9 @@ Current areas of exploration include:
 
 - Enterprise AI governance and responsible AI use
 - Labour-law knowledge systems and compliance copilots
+- Legal case-law engines and statute-linked knowledge bases
 - HR analytics, employee voice, and workforce dashboards
-- Retrieval-augmented generation and structured knowledge bases
+- Retrieval-augmented generation and structured knowledge repositories
 - TypeScript, React, Node.js, PHP, MySQL, APIs, and AI agents
 - Open-source educational content for developers and professionals
 
@@ -122,7 +204,7 @@ Current areas of exploration include:
 
 ## 🔎 Profile Keywords
 
-`Artificial Intelligence` · `Labour Law` · `Labour Compliance` · `HR Governance` · `HRTech` · `LegalTech` · `Knowledge Management` · `Enterprise AI` · `Audit` · `Risk and Compliance` · `Digital Business` · `TypeScript` · `React` · `Node.js` · `PHP` · `MySQL` · `Prompt Engineering` · `Open Education`
+`Artificial Intelligence` · `Labour Law` · `Labour Compliance` · `HR Governance` · `HRTech` · `LegalTech` · `Legal Research` · `Case Law` · `Knowledge Management` · `Enterprise AI` · `Audit` · `Risk and Compliance` · `Digital Business` · `TypeScript` · `React` · `Node.js` · `PHP` · `MySQL` · `Prompt Engineering` · `Open Education`
 
 ---
 
