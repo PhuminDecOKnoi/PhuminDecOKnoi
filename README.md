@@ -1,10 +1,12 @@
 <div align="center">
 
-# Phumin Decoknoi
+# Phumin Decoknoi | ภูมินทร์ เดชโคตรน้อย
 
 ### AI × Labour Law × HR Governance × Legal Knowledge Systems × Digital Business
+### ปัญญาประดิษฐ์ × กฎหมายแรงงาน × ธรรมาภิบาลทรัพยากรบุคคล × ระบบองค์ความรู้กฎหมาย × ธุรกิจดิจิทัล
 
-**Building practical knowledge systems, compliance tools, learning resources, and AI-enabled solutions for modern organizations.**
+**Building practical knowledge systems, compliance tools, learning resources, and AI-enabled solutions for modern organizations.**  
+**พัฒนาระบบองค์ความรู้ เครื่องมือกำกับดูแลและการปฏิบัติตามกฎหมาย สื่อการเรียนรู้ และโซลูชันที่ประยุกต์ใช้ AI สำหรับองค์กรสมัยใหม่**
 
 [![Thailand](https://img.shields.io/badge/Location-Thailand-1f6feb?style=flat-square)](https://github.com/PhuminDecOKnoi)
 [![MBA](https://img.shields.io/badge/MBA-Digital%20Business-6f42c1?style=flat-square)](https://github.com/PhuminDecOKnoi)
@@ -15,29 +17,35 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me | เกี่ยวกับฉัน
 
 I am a multidisciplinary professional combining **Political Science, Digital Business Management, Law, Human Resources, Labour Compliance, Audit, Governance, Knowledge Management, and Artificial Intelligence**.
 
+ผมคือ **ภูมินทร์ เดชโคตรน้อย (Phumin Decoknoi)** ผู้พัฒนาองค์ความรู้และโครงการแบบสหสาขาวิชา โดยบูรณาการ **รัฐศาสตร์ การจัดการธุรกิจดิจิทัล กฎหมาย การบริหารทรัพยากรบุคคล การปฏิบัติตามกฎหมายแรงงาน งานตรวจประเมิน ธรรมาภิบาล การจัดการความรู้ และปัญญาประดิษฐ์**
+
 My academic pathway reflects an integrated development from **Political Science → Digital Business Management → Law**. I use this foundation to design practical solutions for organizational governance, labour compliance, HR systems, enterprise learning, legal knowledge management, and digital transformation.
+
+เส้นทางวิชาการของผมพัฒนาจาก **รัฐศาสตร์ → การจัดการธุรกิจดิจิทัล → นิติศาสตร์** และนำมาใช้ในการออกแบบระบบธรรมาภิบาลองค์กร การกำกับดูแลด้านแรงงาน ระบบ HR การเรียนรู้ในองค์กร การจัดการองค์ความรู้กฎหมาย และการเปลี่ยนผ่านสู่ดิจิทัล
 
 This GitHub profile documents my continuous learning and project development across **AI, LegalTech, HRTech, database systems, web development, prompt engineering, compliance dashboards, legal research workflows, and open educational resources**.
 
----
-
-## 🎯 Professional Focus
-
-- **Labour Law and Labour Compliance** — legal requirements, workplace governance, audit readiness, and corrective-action systems
-- **HR Governance and HR Technology** — workforce management, employee voice, HR analytics, and digital HR processes
-- **Artificial Intelligence and Knowledge Management** — AI agents, prompt engineering, structured knowledge, and enterprise AI use cases
-- **Legal Research and Case-Law Knowledge Systems** — statute-first analysis, Supreme Court decision verification, source mapping, and reusable legal knowledge bases
-- **Audit, Risk, and Compliance** — evidence-based reviews, internal controls, legal registers, and compliance dashboards
-- **Digital Business and Data** — database design, business analytics, digital transformation, and decision-support systems
-- **Learning Design and Open Education** — practical courses, commented code examples, tutorials, and reusable GitHub learning resources
+GitHub นี้รวบรวมผลงานและองค์ความรู้ด้าน **AI, LegalTech, HRTech, ระบบฐานข้อมูล การพัฒนาเว็บไซต์ Prompt Engineering แดชบอร์ดการปฏิบัติตามกฎหมาย กระบวนการวิจัยกฎหมาย และสื่อการเรียนรู้แบบเปิด**
 
 ---
 
-## 🎓 Academic Background
+## 🎯 Professional Focus | ความเชี่ยวชาญและหัวข้อหลัก
+
+- **Labour Law and Labour Compliance | กฎหมายแรงงานและการปฏิบัติตามกฎหมายแรงงาน** — legal requirements, workplace governance, audit readiness, and corrective-action systems
+- **HR Governance and HR Technology | ธรรมาภิบาลทรัพยากรบุคคลและเทคโนโลยี HR** — workforce management, employee voice, HR analytics, and digital HR processes
+- **Artificial Intelligence and Knowledge Management | ปัญญาประดิษฐ์และการจัดการความรู้** — AI agents, prompt engineering, structured knowledge, and enterprise AI use cases
+- **Legal Research and Case-Law Knowledge Systems | การวิจัยกฎหมายและระบบองค์ความรู้คำพิพากษา** — statute-first analysis, Supreme Court decision verification, source mapping, and reusable legal knowledge bases
+- **Audit, Risk, and Compliance | การตรวจประเมิน ความเสี่ยง และการกำกับดูแล** — evidence-based reviews, internal controls, legal registers, and compliance dashboards
+- **Digital Business and Data | ธุรกิจดิจิทัลและข้อมูล** — database design, business analytics, digital transformation, and decision-support systems
+- **Learning Design and Open Education | การออกแบบการเรียนรู้และการศึกษาแบบเปิด** — practical courses, commented code examples, tutorials, and reusable GitHub learning resources
+
+---
+
+## 🎓 Academic Background | ประวัติการศึกษา
 
 | Qualification | Field | Institution |
 |---|---|---|
@@ -47,7 +55,7 @@ This GitHub profile documents my continuous learning and project development acr
 
 ---
 
-## 🧰 Technology and Tools
+## 🧰 Technology and Tools | เทคโนโลยีและเครื่องมือ
 
 ### Programming and Development
 
@@ -69,7 +77,7 @@ This GitHub profile documents my continuous learning and project development acr
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects | โครงการเด่น
 
 ### AI, LegalTech, HRTech, and Governance
 
@@ -118,45 +126,9 @@ Reusable Knowledge Output
 - **Comparative and Trend Analysis** — identify older approaches, later developments, conflicts, and turning points
 - **Branch and Pull-Request Governance** — develop Skills in version branches before controlled merge into `main`
 
-### Legal Deka Workflow v2.1
-
-```text
-Source Resolution
-      ↓
-Search
-      ↓
-Verify
-      ↓
-Extract
-      ↓
-Legal Mapping
-      ↓
-Element Analysis
-      ↓
-Compare
-      ↓
-Trend Analysis
-      ↓
-Case Map
-      ↓
-Exam / Practice Notes
-      ↓
-Knowledge Base Update
-```
-
-The current legal-research architecture treats:
-
-- **GitHub** as the workflow and governance layer
-- **Google Drive** as the internal knowledge base
-- **STOU 41216** as an academic core when relevant
-- **Official statutory sources** as primary law
-- **Supreme Court decisions** as case-law support, not a substitute for statutory text
-
-This approach improves traceability, legal accuracy, version control, and reuse across legal study, HR compliance, audit work, case analysis, and professional knowledge management.
-
 ---
 
-## 💻 Software and Database Learning
+## 💻 Software and Database Learning | การเรียนรู้ด้านซอฟต์แวร์และฐานข้อมูล
 
 - [**TypeScript for React, API, and AI**](https://github.com/PhuminDecOKnoi/TypeScript-for-React-API-AI) — TypeScript learning materials for modern application development
 - [**TypeScript for Beginner**](https://github.com/PhuminDecOKnoi/TypeScript-for-Beginner) — beginner-friendly TypeScript course and examples
@@ -168,14 +140,14 @@ This approach improves traceability, legal accuracy, version control, and reuse 
 
 ---
 
-## 🧭 Current Development Direction
+## 🧭 Current Development Direction | ทิศทางการพัฒนา
 
 ```text
-Political Science
+Political Science / รัฐศาสตร์
         ↓
-Digital Business Management
+Digital Business Management / การจัดการธุรกิจดิจิทัล
         ↓
-Law, HR Governance, and Labour Compliance
+Law, HR Governance, and Labour Compliance / กฎหมาย ธรรมาภิบาล HR และการกำกับดูแลแรงงาน
         ↓
 AI, Data, Knowledge Management, and Software Development
         ↓
@@ -196,21 +168,26 @@ Current areas of exploration include:
 
 ---
 
-## 🌱 Mission
+## 🌱 Mission | พันธกิจ
 
 > **Transforming labour compliance, HR governance, legal knowledge, and enterprise learning through practical technology and responsible artificial intelligence.**
+>
+> **ยกระดับการปฏิบัติตามกฎหมายแรงงาน ธรรมาภิบาลทรัพยากรบุคคล องค์ความรู้กฎหมาย และการเรียนรู้ในองค์กร ด้วยเทคโนโลยีที่ใช้ได้จริงและปัญญาประดิษฐ์อย่างมีความรับผิดชอบ**
 
 ---
 
-## 🔎 Profile Keywords
+## 🔎 Profile Keywords | คำสำคัญสำหรับการค้นหา
 
-`Artificial Intelligence` · `Labour Law` · `Labour Compliance` · `HR Governance` · `HRTech` · `LegalTech` · `Legal Research` · `Case Law` · `Knowledge Management` · `Enterprise AI` · `Audit` · `Risk and Compliance` · `Digital Business` · `TypeScript` · `React` · `Node.js` · `PHP` · `MySQL` · `Prompt Engineering` · `Open Education`
+**English:** `Phumin Decoknoi` · `Artificial Intelligence` · `Labour Law` · `Labour Compliance` · `HR Governance` · `HRTech` · `LegalTech` · `Legal Research` · `Case Law` · `Knowledge Management` · `Enterprise AI` · `Audit` · `Risk and Compliance` · `Digital Business` · `TypeScript` · `React` · `Node.js` · `PHP` · `MySQL` · `Prompt Engineering` · `Open Education`
+
+**ภาษาไทย:** `ภูมินทร์ เดชโคตรน้อย` · `ปัญญาประดิษฐ์` · `กฎหมายแรงงาน` · `การปฏิบัติตามกฎหมายแรงงาน` · `ธรรมาภิบาลทรัพยากรบุคคล` · `เทคโนโลยีทรัพยากรบุคคล` · `เทคโนโลยีกฎหมาย` · `การวิจัยกฎหมาย` · `คำพิพากษาศาลฎีกา` · `การจัดการความรู้` · `การตรวจประเมิน` · `การบริหารความเสี่ยง` · `การกำกับดูแลและการปฏิบัติตามกฎหมาย` · `ธุรกิจดิจิทัล` · `การพัฒนาซอฟต์แวร์` · `วิศวกรรมพรอมต์` · `สื่อการเรียนรู้แบบเปิด`
 
 ---
 
 <div align="center">
 
 ### Continuous Learning · Practical Development · Responsible Innovation
+### เรียนรู้อย่างต่อเนื่อง · พัฒนาเพื่อใช้งานจริง · สร้างนวัตกรรมอย่างรับผิดชอบ
 
 [View All Repositories](https://github.com/PhuminDecOKnoi?tab=repositories)
 
