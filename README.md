@@ -1,6 +1,6 @@
 <div align="center">
 
-# Phumin Decoknoi | ภูมินทร์ เดชโคตรน้อย
+# Phumin Decoknoi | ภูมินทร์ ดีโคกน้อย
 
 ### AI × Labour Law × HR Governance × Legal Knowledge Systems × Digital Business
 ### ปัญญาประดิษฐ์ × กฎหมายแรงงาน × ธรรมาภิบาลทรัพยากรบุคคล × ระบบองค์ความรู้กฎหมาย × ธุรกิจดิจิทัล
