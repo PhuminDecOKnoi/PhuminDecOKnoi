@@ -21,7 +21,7 @@
 
 I am a multidisciplinary professional combining **Political Science, Digital Business Management, Law, Human Resources, Labour Compliance, Audit, Governance, Knowledge Management, and Artificial Intelligence**.
 
-ผมคือ **ภูมินทร์ เดชโคตรน้อย (Phumin Decoknoi)** ผู้พัฒนาองค์ความรู้และโครงการแบบสหสาขาวิชา โดยบูรณาการ **รัฐศาสตร์ การจัดการธุรกิจดิจิทัล กฎหมาย การบริหารทรัพยากรบุคคล การปฏิบัติตามกฎหมายแรงงาน งานตรวจประเมิน ธรรมาภิบาล การจัดการความรู้ และปัญญาประดิษฐ์**
+ผมคือ **ภูมินทร์ ดีโคกน้อย (Phumin Decoknoi)** ผู้พัฒนาองค์ความรู้และโครงการแบบสหสาขาวิชา โดยบูรณาการ **รัฐศาสตร์ การจัดการธุรกิจดิจิทัล กฎหมาย การบริหารทรัพยากรบุคคล การปฏิบัติตามกฎหมายแรงงาน งานตรวจประเมิน ธรรมาภิบาล การจัดการความรู้ และปัญญาประดิษฐ์**
 
 My academic pathway reflects an integrated development from **Political Science → Digital Business Management → Law**. I use this foundation to design practical solutions for organizational governance, labour compliance, HR systems, enterprise learning, legal knowledge management, and digital transformation.
 
@@ -51,7 +51,7 @@ GitHub นี้รวบรวมผลงานและองค์ควา�
 |---|---|---|
 | **Bachelor of Political Science** | Politics and Government | Srinakharinwirot University |
 | **Master of Business Administration** | Digital Business Management | Mahanakorn University of Technology |
-| **Bachelor of Laws — Candidate** | Law | Sukhothai Thammathirat Open University |
+| **Bachelor of Laws (LL.B.) — Candidate** | Law | Sukhothai Thammathirat Open University |
 
 ---
 
@@ -180,7 +180,7 @@ Current areas of exploration include:
 
 **English:** `Phumin Decoknoi` · `Artificial Intelligence` · `Labour Law` · `Labour Compliance` · `HR Governance` · `HRTech` · `LegalTech` · `Legal Research` · `Case Law` · `Knowledge Management` · `Enterprise AI` · `Audit` · `Risk and Compliance` · `Digital Business` · `TypeScript` · `React` · `Node.js` · `PHP` · `MySQL` · `Prompt Engineering` · `Open Education`
 
-**ภาษาไทย:** `ภูมินทร์ เดชโคตรน้อย` · `ปัญญาประดิษฐ์` · `กฎหมายแรงงาน` · `การปฏิบัติตามกฎหมายแรงงาน` · `ธรรมาภิบาลทรัพยากรบุคคล` · `เทคโนโลยีทรัพยากรบุคคล` · `เทคโนโลยีกฎหมาย` · `การวิจัยกฎหมาย` · `คำพิพากษาศาลฎีกา` · `การจัดการความรู้` · `การตรวจประเมิน` · `การบริหารความเสี่ยง` · `การกำกับดูแลและการปฏิบัติตามกฎหมาย` · `ธุรกิจดิจิทัล` · `การพัฒนาซอฟต์แวร์` · `วิศวกรรมพรอมต์` · `สื่อการเรียนรู้แบบเปิด`
+**ภาษาไทย:** `ภูมินทร์ ดีโคกน้อย` · `ปัญญาประดิษฐ์` · `กฎหมายแรงงาน` · `การปฏิบัติตามกฎหมายแรงงาน` · `ธรรมาภิบาลทรัพยากรบุคคล` · `เทคโนโลยีทรัพยากรบุคคล` · `เทคโนโลยีกฎหมาย` · `การวิจัยกฎหมาย` · `คำพิพากษาศาลฎีกา` · `การจัดการความรู้` · `การตรวจประเมิน` · `การบริหารความเสี่ยง` · `การกำกับดูแลและการปฏิบัติตามกฎหมาย` · `ธุรกิจดิจิทัล` · `การพัฒนาซอฟต์แวร์` · `วิศวกรรมพรอมต์` · `สื่อการเรียนรู้แบบเปิด`
 
 ---
 
