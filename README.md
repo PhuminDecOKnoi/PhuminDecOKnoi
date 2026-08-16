@@ -2,9 +2,9 @@
 
 # Phumin Decoknoi
 
-### Senior HR Professional | Labour Governance & Compliance | Labour Standards (TLS 8001) | Management System Auditing | Labour Law | HR Governance | Risk & Compliance
+### MBA in Digital Business Management | Digital Business | Data | AI-Enabled Workflows | Software & Database Learning
 
-**Building practical knowledge systems, compliance tools, learning resources, and technology-enabled solutions for modern organizations.**
+**Exploring practical applications of digital business, data, technology, and artificial intelligence for modern organizations.**
 
 [![Thailand](https://img.shields.io/badge/Location-Thailand-1f6feb?style=flat-square)](https://github.com/PhuminDecOKnoi)
 [![MBA](https://img.shields.io/badge/MBA-Digital%20Business-6f42c1?style=flat-square)](https://github.com/PhuminDecOKnoi)
@@ -17,29 +17,28 @@
 
 ## About Me
 
-I am a senior HR professional with 15+ years of experience in large-scale organizations and complex operational environments. My professional focus includes **labour standards, labour compliance, HR governance, management system auditing, human capital risk, and responsible workplace governance**.
+I hold a **Master of Business Administration in Digital Business Management** and use this GitHub profile to document my continuing development in digital business, data, artificial intelligence, software, databases, and knowledge systems.
 
-I work at the intersection of **people, law, risk, compliance, and management systems**, with a focus on translating regulatory requirements and management-system principles into practical approaches for implementation, monitoring, auditing, corrective action, and continual improvement.
+My interests focus on how digital technologies can support **business analysis, decision-making, process improvement, organizational learning, and practical problem solving**.
 
-My professional development has expanded from traditional HR management toward **Labour Governance and Integrated Compliance Management**, connecting labour law, Thai Labour Standard (TLS 8001), HR governance, management system auditing, risk management, labour rights, social responsibility, data protection, and the responsible use of technology in the workplace.
+I approach technology from a business perspective: understanding the problem first, organizing information and data, selecting suitable tools, and developing practical solutions that can be tested, improved, and reused.
 
-My approach is **risk-based, evidence-based, and systems-oriented**. I am particularly interested in how organizations can move beyond procedural compliance toward stronger accountability, effective controls, reliable evidence, continual improvement, and sustainable workplace practices.
+My current learning and project work includes **Generative AI, prompt engineering, data analytics, business intelligence, database systems, web technologies, automation, Knowledge Management, and digital productivity tools**.
 
-My continuing professional development includes learning and training related to **TLS 8001, ISO 19011, ISO 31000, ISO 37301, ISO/IEC 27701, ISO/IEC 42001, ISO 9001, and ISO 45001**, together with ongoing development in labour law, compliance, internal auditing, data protection, Knowledge Management, Generative AI, data, and digital workplace tools.
+This profile is primarily a record of **continuous learning, experimentation, project development, and practical application** rather than a claim of specialist certification across every technology or framework referenced here.
 
 ---
 
 ## Areas of Focus
 
-- **Labour Governance & Labour Standards** — labour standards, workplace governance, audit readiness, and corrective-action systems
-- **Labour Law & Regulatory Compliance** — practical interpretation of legal and regulatory requirements for workplace application
-- **HR Governance & Human Capital Risk** — workforce governance, accountability, controls, and people-related risk
-- **Management System Auditing** — evidence-based internal auditing, audit planning, findings, and continual improvement
-- **Risk & Compliance Management** — risk-based thinking, compliance controls, and monitoring approaches
-- **Labour Rights & Social Responsibility** — responsible labour practices, social compliance, and sustainable workplace principles
-- **Data Protection & Responsible Technology** — privacy awareness, data protection, and responsible workplace use of technology
-- **Knowledge Management & Organizational Learning** — structured knowledge, reusable learning assets, and enterprise learning
-- **Management Systems & Continual Improvement** — system integration, evidence, corrective action, and improvement cycles
+- **Digital Business Management** — digital business models, business processes, organizational capability, and technology-enabled improvement
+- **Data & Business Analytics** — data analysis, visualization, business intelligence, and decision-support approaches
+- **Generative AI & Prompt Engineering** — practical experimentation with AI-assisted work, structured prompting, and reusable workflows
+- **Knowledge Management** — structured knowledge, reusable learning assets, documentation, and knowledge repositories
+- **Database Systems** — MySQL, SQL fundamentals, data organization, and database-oriented learning projects
+- **Web & Application Development** — HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP, APIs, and related development practice
+- **Digital Productivity & Automation** — practical use of digital tools, AI applications, low-code/no-code concepts, and workflow improvement
+- **Learning Design & Open Knowledge** — tutorials, commented examples, project documentation, and reusable educational resources
 
 ---
 
@@ -47,28 +46,9 @@ My continuing professional development includes learning and training related to
 
 | Qualification | Field | Institution |
 |---|---|---|
-| **Bachelor of Political Science** | Politics and Government | Srinakharinwirot University |
 | **Master of Business Administration** | Digital Business Management | Mahanakorn University of Technology |
+| **Bachelor of Political Science** | Politics and Government | Srinakharinwirot University |
 | **Bachelor of Laws (LL.B.) — Candidate** | Law | Sukhothai Thammathirat Open University |
-
----
-
-## Continuing Professional Development
-
-Current and recent learning covers management-system auditing, labour standards, compliance, risk, privacy, quality, occupational health and safety, digital tools, data, and Generative AI.
-
-Standards and frameworks studied include:
-
-- **TLS 8001** — Thai Labour Standard
-- **ISO 19011** — Guidelines for auditing management systems
-- **ISO 31000** — Risk management
-- **ISO 37301** — Compliance management systems
-- **ISO/IEC 27701** — Privacy information management
-- **ISO/IEC 42001** — Artificial intelligence management systems
-- **ISO 9001** — Quality management systems
-- **ISO 45001** — Occupational health and safety management systems
-
-These references describe areas of learning and professional development and should not be read as claims of certification in every listed standard.
 
 ---
 
@@ -85,7 +65,7 @@ These references describe areas of learning and professional development and sho
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI, Documentation, and Collaboration
+### AI, Data, Documentation, and Collaboration
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -94,72 +74,63 @@ These references describe areas of learning and professional development and sho
 
 ---
 
-## Featured Projects
+## Featured Learning & Projects
 
-### Legal, HR, Audit, Compliance, and Knowledge Systems
-
-- [**GitHub-style Skill Library Agent**](https://github.com/PhuminDecOKnoi/GitHub-style-Skill-Library-Agent-) — reusable workflows and knowledge-operations resources for legal, HR, audit, compliance, administrative, and software-development tasks
-- [**Legal Compliance KM Dashboard**](https://github.com/PhuminDecOKnoi/Legal-Compliance-KM-Dashboard) — knowledge-management and legal-compliance dashboard concepts
-- [**AI Labour Dashboard UI Prototype**](https://github.com/PhuminDecOKnoi/AI-Labour-Dashboard-UI-React-TypeScript-Prototype) — a React and TypeScript prototype for labour and HR data visualization
 - [**Prompt AI — 52 Patterns**](https://github.com/PhuminDecOKnoi/prompt-ai-52-patterns) — structured prompt-engineering patterns for learning and practical application
-
----
-
-## Software and Database Learning
-
-- [**TypeScript for React, API, and AI**](https://github.com/PhuminDecOKnoi/TypeScript-for-React-API-AI)
-- [**TypeScript for Beginner**](https://github.com/PhuminDecOKnoi/TypeScript-for-Beginner)
-- [**PHP Modern Learning**](https://github.com/PhuminDecOKnoi/PHP-Modern-Learning-Ver.1)
-- [**MySQL in Action**](https://github.com/PhuminDecOKnoi/MySQL-in-Action-Ver.1)
-- [**MUT MBAM0615 MySQL**](https://github.com/PhuminDecOKnoi/MUT-MBAM0615-MYSQL)
-- [**Node.js Learning Path**](https://github.com/PhuminDecOKnoi/nodejs-learning-path)
-- [**Modern Web Design using HTML and CSS**](https://github.com/PhuminDecOKnoi/Alison-Modern-Web-Design-using-HTML-and-CSS)
+- [**TypeScript for React, API, and AI**](https://github.com/PhuminDecOKnoi/TypeScript-for-React-API-AI) — TypeScript learning resources for modern application development
+- [**TypeScript for Beginner**](https://github.com/PhuminDecOKnoi/TypeScript-for-Beginner) — beginner-oriented TypeScript examples and learning notes
+- [**MySQL in Action**](https://github.com/PhuminDecOKnoi/MySQL-in-Action-Ver.1) — structured MySQL learning and database practice
+- [**MUT MBAM0615 MySQL**](https://github.com/PhuminDecOKnoi/MUT-MBAM0615-MYSQL) — database learning connected to MBA coursework
+- [**Node.js Learning Path**](https://github.com/PhuminDecOKnoi/nodejs-learning-path) — practical Node.js learning roadmap
+- [**PHP Modern Learning**](https://github.com/PhuminDecOKnoi/PHP-Modern-Learning-Ver.1) — PHP learning resources and practical examples
+- [**Modern Web Design using HTML and CSS**](https://github.com/PhuminDecOKnoi/Alison-Modern-Web-Design-using-HTML-and-CSS) — web-design learning materials and examples
 
 ---
 
 ## Current Development Direction
 
 ```text
-Political Science
+MBA — Digital Business Management
         ↓
-Digital Business Management
+Business Analysis & Digital Strategy
         ↓
-Law, HR Governance, and Labour Compliance
+Data, Business Intelligence & Databases
         ↓
-Audit, Risk, Compliance, Data, and Knowledge Management
+Generative AI & Digital Automation
         ↓
-Legal and Compliance Knowledge Systems
+Web, Software & Knowledge Systems
         ↓
-Practical Enterprise Solutions
+Practical Digital Business Solutions
 ```
 
 Current areas of learning and project development include:
 
-- Labour-law knowledge systems and compliance tools
-- Legal research workflows and statute-linked knowledge bases
-- HR analytics, employee voice, and workforce dashboards
+- Digital business and technology-enabled process improvement
+- Data analytics, visualization, and business intelligence
+- Generative AI and prompt engineering for practical work
 - Knowledge Management and structured knowledge repositories
-- Generative AI and prompt engineering for practical workplace use
-- TypeScript, React, Node.js, PHP, MySQL, APIs, and data tools
-- Open educational resources for professional and technical learning
+- MySQL, SQL, database design, and data organization
+- TypeScript, JavaScript, React, Node.js, PHP, HTML, CSS, and APIs
+- Low-code/no-code concepts and digital workflow automation
+- Open educational resources and reusable learning materials
 
 ---
 
 ## Mission
 
-> **Strengthening labour compliance, HR governance, legal knowledge, and organizational learning through evidence-based systems, practical technology, and continual improvement.**
+> **Turning continuous learning in digital business, data, and technology into practical, reusable, and well-documented solutions.**
 
 ---
 
 ## Profile Keywords
 
-`Phumin Decoknoi` · `Senior HR Professional` · `Labour Governance` · `Labour Standards` · `TLS 8001` · `Labour Law` · `Labour Compliance` · `HR Governance` · `Management System Auditing` · `ISO 19011` · `Risk Management` · `ISO 31000` · `Compliance Management` · `ISO 37301` · `Data Protection` · `ISO/IEC 27701` · `ISO/IEC 42001` · `ISO 9001` · `ISO 45001` · `Knowledge Management` · `Generative AI` · `Legal Research` · `LegalTech` · `HRTech` · `Digital Business`
+`Phumin Decoknoi` · `MBA Digital Business Management` · `Digital Business` · `Business Analytics` · `Data Analytics` · `Business Intelligence` · `Generative AI` · `Prompt Engineering` · `Knowledge Management` · `Digital Transformation` · `Digital Productivity` · `Automation` · `MySQL` · `SQL` · `Database Systems` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `PHP` · `HTML` · `CSS` · `API` · `Open Education`
 
 ---
 
 <div align="center">
 
-### Continuous Learning · Evidence-Based Practice · Responsible Innovation
+### Continuous Learning · Practical Development · Responsible Use of Technology
 
 [View All Repositories](https://github.com/PhuminDecOKnoi?tab=repositories)
 
