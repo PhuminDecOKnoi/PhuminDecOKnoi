@@ -2,13 +2,12 @@
 
 # Phumin Decoknoi
 
-### MBA in Digital Business Management | Digital Business | Data | AI-Enabled Workflows | Software & Database Learning
+### MBA in Digital Business Management | Digital Business | Data | Business Analytics | AI-Enabled Workflows | Software & Database Learning
 
 **Exploring practical applications of digital business, data, technology, and artificial intelligence for modern organizations.**
 
 [![Thailand](https://img.shields.io/badge/Location-Thailand-1f6feb?style=flat-square)](https://github.com/PhuminDecOKnoi)
 [![MBA](https://img.shields.io/badge/MBA-Digital%20Business-6f42c1?style=flat-square)](https://github.com/PhuminDecOKnoi)
-[![LL.B. Candidate](https://img.shields.io/badge/LL.B.-Candidate-0969da?style=flat-square)](https://github.com/PhuminDecOKnoi)
 [![Open Source](https://img.shields.io/badge/Open%20Source-MIT-success?style=flat-square)](https://github.com/PhuminDecOKnoi?tab=repositories)
 
 </div>
@@ -17,11 +16,11 @@
 
 ## About Me
 
-I hold a **Master of Business Administration in Digital Business Management** and use this GitHub profile to document my continuing development in digital business, data, artificial intelligence, software, databases, and knowledge systems.
+I hold a **Master of Business Administration in Digital Business Management** and use this GitHub profile to document my continuing development in digital business, data, business analytics, artificial intelligence, software, databases, and knowledge systems.
 
-My interests focus on how digital technologies can support **business analysis, decision-making, process improvement, organizational learning, and practical problem solving**.
+My interests focus on how digital technologies can support **business analysis, decision-making, process improvement, organizational learning, digital productivity, and practical problem solving**.
 
-I approach technology from a business perspective: understanding the problem first, organizing information and data, selecting suitable tools, and developing practical solutions that can be tested, improved, and reused.
+I approach technology from a business perspective: understanding the business problem first, organizing information and data, selecting suitable tools, and developing practical solutions that can be tested, improved, and reused.
 
 My current learning and project work includes **Generative AI, prompt engineering, data analytics, business intelligence, database systems, web technologies, automation, Knowledge Management, and digital productivity tools**.
 
@@ -32,6 +31,7 @@ This profile is primarily a record of **continuous learning, experimentation, pr
 ## Areas of Focus
 
 - **Digital Business Management** — digital business models, business processes, organizational capability, and technology-enabled improvement
+- **Business Analysis & Digital Strategy** — problem framing, process analysis, decision support, and practical digital solutions
 - **Data & Business Analytics** — data analysis, visualization, business intelligence, and decision-support approaches
 - **Generative AI & Prompt Engineering** — practical experimentation with AI-assisted work, structured prompting, and reusable workflows
 - **Knowledge Management** — structured knowledge, reusable learning assets, documentation, and knowledge repositories
@@ -42,13 +42,12 @@ This profile is primarily a record of **continuous learning, experimentation, pr
 
 ---
 
-## Academic Background
+## Academic Focus
 
-| Qualification | Field | Institution |
-|---|---|---|
-| **Master of Business Administration** | Digital Business Management | Mahanakorn University of Technology |
-| **Bachelor of Political Science** | Politics and Government | Srinakharinwirot University |
-| **Bachelor of Laws (LL.B.) — Candidate** | Law | Sukhothai Thammathirat Open University |
+**Master of Business Administration (MBA) — Digital Business Management**  
+Mahanakorn University of Technology
+
+This GitHub profile is intentionally organized around the digital-business dimension of my academic and project development.
 
 ---
 
@@ -74,13 +73,13 @@ This profile is primarily a record of **continuous learning, experimentation, pr
 
 ---
 
-## Featured Learning & Projects
+## Featured Digital Business Learning & Projects
 
-- [**Prompt AI — 52 Patterns**](https://github.com/PhuminDecOKnoi/prompt-ai-52-patterns) — structured prompt-engineering patterns for learning and practical application
-- [**TypeScript for React, API, and AI**](https://github.com/PhuminDecOKnoi/TypeScript-for-React-API-AI) — TypeScript learning resources for modern application development
-- [**TypeScript for Beginner**](https://github.com/PhuminDecOKnoi/TypeScript-for-Beginner) — beginner-oriented TypeScript examples and learning notes
+- [**MUT MBAM0615 MySQL**](https://github.com/PhuminDecOKnoi/MUT-MBAM0615-MYSQL) — database learning connected directly to MBA coursework
+- [**SQL / MySQL for Data Analytics and Business Intelligence**](https://github.com/PhuminDecOKnoi/UDemy-SQL-MySQL-for-Data-Analytics-and-Business-Intelligence) — SQL and business-intelligence learning
 - [**MySQL in Action**](https://github.com/PhuminDecOKnoi/MySQL-in-Action-Ver.1) — structured MySQL learning and database practice
-- [**MUT MBAM0615 MySQL**](https://github.com/PhuminDecOKnoi/MUT-MBAM0615-MYSQL) — database learning connected to MBA coursework
+- [**Prompt AI — 52 Patterns**](https://github.com/PhuminDecOKnoi/prompt-ai-52-patterns) — structured prompt-engineering patterns for practical digital work
+- [**TypeScript for React, API, and AI**](https://github.com/PhuminDecOKnoi/TypeScript-for-React-API-AI) — TypeScript learning resources for modern application development
 - [**Node.js Learning Path**](https://github.com/PhuminDecOKnoi/nodejs-learning-path) — practical Node.js learning roadmap
 - [**PHP Modern Learning**](https://github.com/PhuminDecOKnoi/PHP-Modern-Learning-Ver.1) — PHP learning resources and practical examples
 - [**Modern Web Design using HTML and CSS**](https://github.com/PhuminDecOKnoi/Alison-Modern-Web-Design-using-HTML-and-CSS) — web-design learning materials and examples
@@ -124,7 +123,7 @@ Current areas of learning and project development include:
 
 ## Profile Keywords
 
-`Phumin Decoknoi` · `MBA Digital Business Management` · `Digital Business` · `Business Analytics` · `Data Analytics` · `Business Intelligence` · `Generative AI` · `Prompt Engineering` · `Knowledge Management` · `Digital Transformation` · `Digital Productivity` · `Automation` · `MySQL` · `SQL` · `Database Systems` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `PHP` · `HTML` · `CSS` · `API` · `Open Education`
+`Phumin Decoknoi` · `MBA Digital Business Management` · `Digital Business` · `Digital Strategy` · `Business Analysis` · `Business Analytics` · `Data Analytics` · `Business Intelligence` · `Generative AI` · `Prompt Engineering` · `Knowledge Management` · `Digital Transformation` · `Digital Productivity` · `Automation` · `MySQL` · `SQL` · `Database Systems` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `PHP` · `HTML` · `CSS` · `API` · `Open Education`
 
 ---
 
