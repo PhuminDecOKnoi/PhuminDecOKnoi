@@ -2,7 +2,7 @@
 
 # Phumin Decoknoi
 
-### MBA in Digital Business Management | Digital Business | Data | Business Analytics | AI-Enabled Workflows | Software & Database Learning
+### MBA (Digital Business) | LL.B. Candidate | B.Pol.Sc. 🤖 AI • Data • Digital Business • KM 💻 TypeScript • React • Node.js • PHP • MySQL
 
 **Exploring practical applications of digital business, data, technology, and artificial intelligence for modern organizations.**
 
